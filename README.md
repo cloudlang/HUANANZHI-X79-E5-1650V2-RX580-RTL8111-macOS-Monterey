@@ -1,2 +1,4 @@
 # HUANANZHI-X79-E5-1650V2-RX580-RTL8111-macOS-Monterey
 华南主板X79-E5-1650V2-RX580-RTL8111-macOS-Monterey
+
+# OpenCore 0.9.1
